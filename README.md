@@ -1,1 +1,1 @@
-#Notepad++ kullanımı ve aramalarda kullanılabilecek düzenli ifadeler (regex).
+# Notepad++ kullanımı ve aramalarda kullanılabilecek düzenli ifadeler (regex).
